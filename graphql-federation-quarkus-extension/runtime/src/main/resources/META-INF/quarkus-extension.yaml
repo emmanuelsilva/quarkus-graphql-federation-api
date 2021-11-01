@@ -1,9 +1,0 @@
-name: Graphql Federation Quarkus Extension
-description: Allows GraphQL application to use federation by using smallrye annotations
-metadata:
-#  keywords:
-#    - graphql-federation-quarkus-extension
-#  guide: ...
-#  categories:
-#    - "miscellaneous"
-#  status: "preview"
