@@ -1,5 +1,8 @@
 package dev.emmanuel.graphql.types;
 
+import io.smallrye.graphql.api.federation.Key;
+
+@Key(fields = "iban")
 public class Account {
   private String iban;
 
