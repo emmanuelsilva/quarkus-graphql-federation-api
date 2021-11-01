@@ -1,4 +1,4 @@
-package dev.emmanuel.graphql;
+package dev.emmanuel.graphql.types;
 
 public class Account {
   private String iban;

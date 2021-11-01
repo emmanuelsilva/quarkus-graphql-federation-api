@@ -1,5 +1,7 @@
 package dev.emmanuel.graphql;
 
+import dev.emmanuel.graphql.types.Account;
+import dev.emmanuel.graphql.types.Customer;
 import org.eclipse.microprofile.graphql.Description;
 import org.eclipse.microprofile.graphql.GraphQLApi;
 import org.eclipse.microprofile.graphql.Query;

@@ -1,4 +1,4 @@
-package dev.emmanuel.graphql;
+package dev.emmanuel.graphql.types;
 
 import io.smallrye.graphql.api.federation.Extends;
 import io.smallrye.graphql.api.federation.External;
